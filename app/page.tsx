@@ -5,7 +5,6 @@ export default function Home() {
   return (
     <MaxWidthWrapper>
       <div>
-        {" "}
         <p></p>
       </div>
     </MaxWidthWrapper>
